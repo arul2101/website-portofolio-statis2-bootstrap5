@@ -1,0 +1,11 @@
+.vont{
+  min-height: 50rem;
+}
+
+.title-item{
+  margin-bottom: 4rem;
+}
+
+html{
+  scroll-padding-top: 6rem;
+}
